@@ -49,7 +49,7 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lopesmauro&theme=youtube-dark" alt="GitHub Streak" /></a>
+![lopesmauro's Stats](https://github-readme-stats.vercel.app/api?username=lopesmauro&theme=outrun&show_icons=true&hide_border=true&count_private=true)
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
