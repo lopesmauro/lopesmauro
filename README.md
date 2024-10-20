@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer with expertise in TypeScript, Express.js, and database management, dedicated to building robust and efficient applications.</h3>
 
 <h3 align="left">🖥️ Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -49,7 +49,10 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-![lopesmauro's Stats](https://github-readme-stats.vercel.app/api?username=lopesmauro&theme=outrun&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lopesmauro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=lopesmauro&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
