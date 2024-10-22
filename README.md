@@ -1,8 +1,16 @@
-<h1 align="center">Welcome!👋 I'm Mauro!</h1>
-<h3 align="center">A passionate Full-Stack Developer with expertise in TypeScript, Express.js, and database management, dedicated to building robust and efficient applications.</h3>
+<h1 align="center">Welcome, I'm Mauro! <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About me:</h3>
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
+```javascript
+function main() {
+    let name = 'Mauro Felipe';
+    let acknowledgements = 'Software Engineer';
 
-<h3 align="left">🖥️ Languages and Tools:</h3>
+    let location = 'Manaus, Amazonas, Brazil';
+}
+```
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -58,6 +66,9 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </a>
+    <a href="https://ubuntu.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+    </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
     </a>
@@ -66,6 +77,15 @@
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </a>
+    <a href="https://www.electronjs.org" target="_blank">
+        <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+    </a>
+    <a href="https://zod.dev" target="_blank">
+        <img src="https://img.shields.io/badge/Zod-2E8B3D?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+    </a>
+    <a href="https://www.nginx.com" target="_blank">
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
     </a>
 </p>
 
@@ -84,4 +104,3 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
 </p>
-
