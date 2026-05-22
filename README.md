@@ -6,7 +6,7 @@
 function main() {
     let name = 'Mauro Felipe';
     let acknowledgements = 'Software Engineer';
-    let company =  'Imprensa Oficial'
+    let company =  'Grupo Bringel'
     let location = 'Manaus, Amazonas, Brazil';
 }
 ``` 
